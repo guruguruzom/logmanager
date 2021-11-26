@@ -1,0 +1,6 @@
+C:\Users\bcloud-guruzom\source\repos\LogManagerDll\LogManagerDll\bin\Debug\LogManagerDll.dll
+C:\Users\bcloud-guruzom\source\repos\LogManagerDll\LogManagerDll\bin\Debug\LogManagerDll.pdb
+C:\Users\bcloud-guruzom\source\repos\LogManagerDll\LogManagerDll\obj\Debug\LogManagerDll.csprojAssemblyReference.cache
+C:\Users\bcloud-guruzom\source\repos\LogManagerDll\LogManagerDll\obj\Debug\LogManagerDll.csproj.CoreCompileInputs.cache
+C:\Users\bcloud-guruzom\source\repos\LogManagerDll\LogManagerDll\obj\Debug\LogManagerDll.dll
+C:\Users\bcloud-guruzom\source\repos\LogManagerDll\LogManagerDll\obj\Debug\LogManagerDll.pdb
